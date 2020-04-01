@@ -1,6 +1,6 @@
-# Projeto Flutter Criação ToDoList
+# Projeto Flutter Criação Buscador de Gif
 
-Novo projeito de Flutter iniciante - Criando To Do List
+Novo projeito de Flutter iniciante - Busca o gif consumindo de uma API
 
 ## Getting Started
 
